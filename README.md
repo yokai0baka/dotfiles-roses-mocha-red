@@ -6,7 +6,17 @@
 
 <hr>
 
-<p>Theme-color: Catppuccin Mocha Red</p>
-<p>Fonts: Caskaydia Cove Nerd Font</p>
-<p>Icons: Papirus Dark</p>
-<p>Cursor: Bibata Modern Ice</p>
+<br>
+
+<p>Arch BTW (sorry i have to say this)</p>
+
+<br>
+
+<p><b>Theme-color:</b> Catppuccin Mocha Red</p>
+<p><b>Fonts:</b> Caskaydia Cove Nerd Font</p>
+<p><b>Icons:</b> Papirus Dark</p>
+<p><b>Cursor:</b> Bibata Modern Ice</p>
+
+<br>
+
+<p>First rice and first repository... Hope you enjoy <3</p>
