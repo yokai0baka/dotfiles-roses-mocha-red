@@ -6,7 +6,7 @@
 
 <hr>
 
-Theme-color: Catppuccin Mocha Red
-Fonts: Caskaydia Cove Nerd Font
-Icons: Papirus Dark
-Cursor: Bibata Modern Ice
+<p>Theme-color: Catppuccin Mocha Red</p>
+<p>Fonts: Caskaydia Cove Nerd Font</p>
+<p>Icons: Papirus Dark</p>
+<p>Cursor: Bibata Modern Ice</p>
