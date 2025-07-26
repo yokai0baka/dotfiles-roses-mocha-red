@@ -19,7 +19,7 @@
 
 <br>
 
-<p>The wallpapers that i used is from this repository: <a href"https://github.com/orangci/walls-catppuccin-mocha">https://github.com/orangci/walls-catppuccin-mocha</a></p>
+<p>The wallpapers that i used is from this repository: https://github.com/orangci/walls-catppuccin-mocha</p>
 
 <br>
 
