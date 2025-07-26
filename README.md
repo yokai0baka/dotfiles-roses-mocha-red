@@ -19,4 +19,8 @@
 
 <br>
 
+<p>The wallpapers that i used is from this repository: <a href"https://github.com/orangci/walls-catppuccin-mocha"></p>
+
+<br>
+
 <p>First rice and first repository... Hope you enjoy <3</p>
